@@ -1,7 +1,7 @@
-Secure Data Encryption System
+###Secure Data Encryption System
 🔐 A simple, user-friendly web application that allows users to encrypt and decrypt their data securely using a passkey. Built with Streamlit, this application ensures data security through password hashing, encryption, and a local storage system (no external database).
 
-Features
+##Features
 User Registration & Authentication:
 
 Users can register with a unique username and password.
